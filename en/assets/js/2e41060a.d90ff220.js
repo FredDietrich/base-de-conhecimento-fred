@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbase=self.webpackChunkbase||[]).push([[897],{656:e=>{e.exports=JSON.parse('{"label":"hola","permalink":"/base-de-conhecimento-fred/en/blog/tags/hola","allTagsPath":"/base-de-conhecimento-fred/en/blog/tags","count":1}')}}]);
