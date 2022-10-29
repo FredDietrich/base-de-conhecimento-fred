@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "f147d8058a7f2803",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c5175cf45fa4c3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e4dca8c3f755f3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inicio.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "38484b348b970926",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c80d6abd97803bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d92707e1b7e51eeb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "75d250b27fc1c667",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "04128377cd4e24d2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "da00d38e8561845a",
+    "type": "split",
+    "children": [
+      {
+        "id": "06b1c9bf9cef5594",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3d4d0cfdd9947cf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "inicio.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fbc4c065356c6ae6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "inicio.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ad2aa50f48099549",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "862cb671ab4c8dad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "inicio.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0e4dca8c3f755f3a",
+  "lastOpenFiles": [
+    "linux/Arch Linux.md"
+  ]
+}

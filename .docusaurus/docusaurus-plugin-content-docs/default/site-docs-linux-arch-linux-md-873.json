@@ -1,0 +1,19 @@
+{
+  "unversionedId": "linux/Arch Linux",
+  "id": "linux/Arch Linux",
+  "title": "Arch Linux",
+  "description": "Comandos",
+  "source": "@site/docs/linux/Arch Linux.md",
+  "sourceDirName": "linux",
+  "slug": "/linux/Arch Linux",
+  "permalink": "/docs/linux/Arch Linux",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Isto é o início",
+    "permalink": "/docs/inicio"
+  }
+}
