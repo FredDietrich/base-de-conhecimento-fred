@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9c5175cf45fa4c3d",
+        "id": "9a243a66841f4dcb",
         "type": "tabs",
         "children": [
           {
-            "id": "0e4dca8c3f755f3a",
+            "id": "8ce2082d71b14e93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inicio.md",
+                "file": "programaslinux/Editores de texto.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "da00d38e8561845a",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inicio.md",
+                "file": "programaslinux/Editores de texto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inicio.md",
+                "file": "programaslinux/Editores de texto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inicio.md"
+                "file": "programaslinux/Editores de texto.md"
               }
             }
           }
@@ -137,8 +136,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0e4dca8c3f755f3a",
+  "active": "8ce2082d71b14e93",
   "lastOpenFiles": [
-    "linux/Arch Linux.md"
+    "linux/Arch Linux.md",
+    "programaslinux/Editores de texto.md",
+    "programacao/Java.md",
+    "programacao/Javascript.md",
+    "inicio.md",
+    "Pasted image 20221030200016.png",
+    "Untitled.md"
   ]
 }
