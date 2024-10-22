@@ -20,10 +20,14 @@ public class Main {
 		        return "Hi " + nome;
 		    }
 		};
- 		String oiEmPortugues = portuguesTradutor.oi("fred");
+		// Também é possível usar lambda, do Java 8:
+		ICumprimentadorTraduzido espanholTradutor = (String nome) -> "Hola " + nome;
+ 		String oiEmPortugues = portuguesTradutor.oi("Fred");
  		String oiEmIngles = inglesTradutor.oi("Fred");
-		System.out.println(oiEmPortugues);
-        System.out.println(oiEmIngles);
+ 		String oiEmEspanhol = espanholTradutor.oi("Fred");
+		System.out.println(oiEmPortugues); // -> Oi Fred
+        System.out.println(oiEmIngles); // -> Hi Fred
+        System.out.prinln(oiEmEspanhol); // -> Hola Fred
 	}
 }
 ```

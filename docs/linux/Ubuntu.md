@@ -8,7 +8,6 @@ Para executar ele, no gnome, gosto do atalho no botão `print`, configurando no 
 ```bash
 flameshot gui
 ```
-
 ### Alacarte (menu principal)
 Para criar e editar atalhos (os .desktop) uso o alacarte. Segue nome do pacote no `apt`:
 ```bash

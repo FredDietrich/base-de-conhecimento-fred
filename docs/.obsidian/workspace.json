@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programaslinux/Editores de texto.md",
+                "file": "linux/Kubuntu.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Kubuntu"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +68,19 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "104f9ba635e2bdb7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programaslinux/Editores de texto.md",
+                "file": "linux/Kubuntu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +111,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Kubuntu"
             }
           },
           {
@@ -102,10 +122,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programaslinux/Editores de texto.md",
+                "file": "linux/Kubuntu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Kubuntu"
             }
           },
           {
@@ -116,7 +138,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programaslinux/Editores de texto.md"
-              }
+                "file": "linux/Kubuntu.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Kubuntu"
             }
           }
         ]
@@ -136,13 +162,28 @@
     "width": 300,
     "collapsed": true
   },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
   "active": "8ce2082d71b14e93",
   "lastOpenFiles": [
+    "linux/Ubuntu.md",
+    "linux/Kubuntu.md",
     "linux/Arch Linux.md",
-    "programaslinux/Editores de texto.md",
-    "programacao/Java.md",
-    "programacao/Javascript.md",
+    "linux/Kubuntu",
     "inicio.md",
+    "utilidades/Regexes.md",
+    "programaslinux/Editores de texto.md",
+    "programacao/Typescript.md",
+    "programacao/Javascript.md",
+    "programacao/Java.md",
     "Pasted image 20221030200016.png",
     "Untitled.md"
   ]
